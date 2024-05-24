@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hey, I'm Leonardo 👋🏽  
 
-<!--
-**LeonardoVS30/LeonardoVS30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 20 year old developer based in Ecuador, and I'm passionate about solving digital solutions. 
+ 
+## ✨ Fun Facts 
 
-Here are some ideas to get you started:
+- I love music.
+- As a kid I wanted to be a lawyer.
+- I love learning things often, even if they have nothing to do with my career.
+ 
+## 📫 Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/leonardo-v-24292b190/). 
