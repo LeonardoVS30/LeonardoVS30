@@ -1,6 +1,6 @@
 ### Hey, I'm Leonardo 👋🏽  
 
-I'm a 20 year old developer based in Ecuador, and I'm passionate about solving digital solutions.
+I'm a 21 year old developer based in Ecuador, and I'm passionate about solving digital solutions.
 Currently software engineer in process.📈
  
 ## ✨ Fun Facts 
