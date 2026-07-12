@@ -11,9 +11,9 @@ Based in Ecuador 🇪🇨
 
 ## Connect With Me
 
-» GitHub        → https://github.com/LeonardoVS30
-» LinkedIn      → https://www.linkedin.com/in/leonardo-vs30
-» Email         → mailto:verdesotoleonardo@gmail.com
+» GitHub        → https://github.com/LeonardoVS30  
+» LinkedIn      → https://www.linkedin.com/in/leonardo-vs30  
+» Email         → mailto:verdesotoleonardo@gmail.com  
 
 ---
 
