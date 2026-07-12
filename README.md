@@ -1,4 +1,4 @@
-# LEONARDO VERDESOTO <3
+# Leonardo Verdesoto <3
 ==================
 
 Turning data, software and ideas into reliable digital solutions.
