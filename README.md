@@ -1,6 +1,6 @@
 # LEONARDO VERDESOTO <3
 
-=======================
+---
 
 Turning data, software and ideas into reliable digital solutions.
 Currently working as a Junior Data Engineer while training to become a Software Engineer.
