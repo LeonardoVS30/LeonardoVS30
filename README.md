@@ -18,14 +18,14 @@ Based in Ecuador 🇪🇨
 
 ## Skills & Tools
 
-» Data Engineering: Python, SQL, Apache Spark, Hadoop, HDFS, Hive, ETL, Power BI
-» Backend:          C#, .NET, Java, Python, REST APIs
-» Frontend:         React, TypeScript, JavaScript, HTML5, CSS3
-» Databases:        Microsoft SQL Server, MySQL, SQLite
-» Data Analysis:    Python, R, Pandas, Data Processing
-» Native Development: C++20, JUCE, CMake
-» DevOps:           Docker, Git, Linux
-» Tools:            Visual Studio, VS Code, Swagger, Postman, Vite, Vercel, NPM
+» Data Engineering: Python, SQL, Apache Spark, Hadoop, HDFS, Hive, ETL<br>
+» Backend:          C#, .NET, Java, Python, REST APIs<br>
+» Frontend:         React, TypeScript, JavaScript, HTML5, CSS3<br>
+» Databases:        Microsoft SQL Server, MySQL, SQLite<br>
+» Data Analysis:    Python, R, Pandas, Data Processing<br>
+» Native Development: C++20, JUCE, CMake<br>
+» DevOps:           Docker, Git, Linux<br>
+» Tools:            Visual Studio, VS Code, Swagger, Postman, Vite, Vercel, NPM<br>
 
 ---
 
