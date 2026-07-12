@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I'm a 22 year old developer based in Ecuador, and I'm passionate about solving digital solutions. Currently software engineer in process.📈</h4>
+<h4 align="left">I'm a 22-year-old developer living in Ecuador, and I'm passionate about creating digital solutions. I currently work as a Junior Data Engineer and am training to become a software engineer.📈</h4>
 
 ###
 
