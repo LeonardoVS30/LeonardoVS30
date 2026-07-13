@@ -15,24 +15,24 @@ Connect With Me
 ---------------
 ## Skills & Tools
 
-» Data Engineering: Python, SQL, Apache Spark, Hadoop, HDFS, Hive, ETL<br>
-» Backend:          C#, .NET, Java, Python, REST APIs<br>
-» Frontend:         React, TypeScript, JavaScript, HTML5, CSS3<br>
-» Databases:        Microsoft SQL Server, MySQL, SQLite<br>
-» Data Analysis:    Python, Pandas, Data Processing<br>
-» Native Development: C++20, JUCE, CMake<br>
-» DevOps:           Docker, Git, Linux<br>
-» Tools:            Visual Studio, VS Code, Swagger, Postman, Vite, Vercel, NPM<br>
+» Data Engineering: Python, SQL, Apache Spark, Hadoop, HDFS, Hive, ETL
+» Backend:          C#, .NET, Java, Python, REST APIs
+» Frontend:         React, TypeScript, JavaScript, HTML5, CSS3
+» Databases:        Microsoft SQL Server, MySQL, SQLite
+» Data Analysis:    Python, Pandas, Data Processing
+» Native Development: C++20, JUCE, CMake
+» DevOps:           Docker, Git, Linux
+» Tools:            Visual Studio, VS Code, Swagger, Postman, Vite, Vercel, NPM
 
 ---------------
 ## Featured Projects
 
-● CHROME 2000<br>
-- Proprietary VST3 and Standalone sample synthesizer for Windows.<br>
-- Built with C++20, JUCE 8 and CMake for Visual Studio 2022.<br>
-- Features three audio sources, spectral processing, micro-granular synthesis, modulation, presets and integrated master effects.<br>
-- Status: Active development.<br>
-- Repository: https://github.com/LeonardoVS30/Chrome200<br>
+● CHROME 2000
+- Proprietary VST3 and Standalone sample synthesizer for Windows.
+- Built with C++20, JUCE 8 and CMake for Visual Studio 2022.
+- Features three audio sources, spectral processing, micro-granular synthesis, modulation, presets and integrated master effects.
+- Status: Active development.
+- Repository: https://github.com/LeonardoVS30/Chrome200
 
 ● ECommerce API
 - RESTful API developed with C# and .NET 8.
