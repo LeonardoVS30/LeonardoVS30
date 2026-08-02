@@ -52,7 +52,7 @@ Connect With Me
 ● Data Engineering & Lakehouse Pipelines
 - Building incremental ingestion pipelines with Python, Spark and HDFS.
 - Implementing checkpoints, integrity validation, retries and historical snapshots.
-- Transforming data through Bronze and Silver layers for analytics and reporting.
+- Transforming data through Bronze, Silver and Gold layers for analytics and reporting.
 
 ● ETL & Database Automation
 - Developing reusable Python processes for extracting, cleaning and loading information.
